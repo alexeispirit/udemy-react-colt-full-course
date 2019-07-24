@@ -1,0 +1,19 @@
+.ButtonList {
+    height: 150px;
+    margin: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.ButtonList button {
+    width: 150px;
+    height: 50px;
+    outline: none;
+    border: 2px solid black;
+    font-size: 16px;
+}
+
+.ButtonList button:hover {
+    cursor: pointer;
+}
