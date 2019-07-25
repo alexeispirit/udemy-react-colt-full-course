@@ -7,7 +7,6 @@ import InputBase from "@material-ui/core/InputBase";
 import SearchIcon from "@material-ui/icons/Search";
 import Switch from "@material-ui/core/Switch";
 import { withStyles } from "@material-ui/core/styles";
-import { mergeClasses } from "@material-ui/styles";
 
 import styles from "./styles/NavbarStyles";
 
